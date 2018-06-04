@@ -1,0 +1,3 @@
+.idea文件夹及_pycache_文件夹是pycharm的格式文件，负责保存字体颜色等，与程序关系不大。
+resources文件夹保存了图片帧图及字体库、音效库，必须和源码放置在同一文件夹下才能使源码识别。
+mainDragon.py及mysprite.py是源码，其中，mysprite.py写了一个类，主程序在mainDragon.py，其通过调用mysprite.py的类创建类实例。
